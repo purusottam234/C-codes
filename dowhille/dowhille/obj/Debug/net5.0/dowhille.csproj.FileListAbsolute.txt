@@ -1,0 +1,16 @@
+D:\C#Practice\dowhille\dowhille\bin\Debug\net5.0\dowhille.exe
+D:\C#Practice\dowhille\dowhille\bin\Debug\net5.0\dowhille.deps.json
+D:\C#Practice\dowhille\dowhille\bin\Debug\net5.0\dowhille.runtimeconfig.json
+D:\C#Practice\dowhille\dowhille\bin\Debug\net5.0\dowhille.runtimeconfig.dev.json
+D:\C#Practice\dowhille\dowhille\bin\Debug\net5.0\dowhille.dll
+D:\C#Practice\dowhille\dowhille\bin\Debug\net5.0\ref\dowhille.dll
+D:\C#Practice\dowhille\dowhille\bin\Debug\net5.0\dowhille.pdb
+D:\C#Practice\dowhille\dowhille\obj\Debug\net5.0\dowhille.csproj.AssemblyReference.cache
+D:\C#Practice\dowhille\dowhille\obj\Debug\net5.0\dowhille.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\dowhille\dowhille\obj\Debug\net5.0\dowhille.AssemblyInfoInputs.cache
+D:\C#Practice\dowhille\dowhille\obj\Debug\net5.0\dowhille.AssemblyInfo.cs
+D:\C#Practice\dowhille\dowhille\obj\Debug\net5.0\dowhille.csproj.CoreCompileInputs.cache
+D:\C#Practice\dowhille\dowhille\obj\Debug\net5.0\dowhille.dll
+D:\C#Practice\dowhille\dowhille\obj\Debug\net5.0\ref\dowhille.dll
+D:\C#Practice\dowhille\dowhille\obj\Debug\net5.0\dowhille.pdb
+D:\C#Practice\dowhille\dowhille\obj\Debug\net5.0\dowhille.genruntimeconfig.cache

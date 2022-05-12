@@ -1,0 +1,16 @@
+D:\C#Practice\forloop\forloop\bin\Debug\net5.0\forloop.exe
+D:\C#Practice\forloop\forloop\bin\Debug\net5.0\forloop.deps.json
+D:\C#Practice\forloop\forloop\bin\Debug\net5.0\forloop.runtimeconfig.json
+D:\C#Practice\forloop\forloop\bin\Debug\net5.0\forloop.runtimeconfig.dev.json
+D:\C#Practice\forloop\forloop\bin\Debug\net5.0\forloop.dll
+D:\C#Practice\forloop\forloop\bin\Debug\net5.0\ref\forloop.dll
+D:\C#Practice\forloop\forloop\bin\Debug\net5.0\forloop.pdb
+D:\C#Practice\forloop\forloop\obj\Debug\net5.0\forloop.csproj.AssemblyReference.cache
+D:\C#Practice\forloop\forloop\obj\Debug\net5.0\forloop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\forloop\forloop\obj\Debug\net5.0\forloop.AssemblyInfoInputs.cache
+D:\C#Practice\forloop\forloop\obj\Debug\net5.0\forloop.AssemblyInfo.cs
+D:\C#Practice\forloop\forloop\obj\Debug\net5.0\forloop.csproj.CoreCompileInputs.cache
+D:\C#Practice\forloop\forloop\obj\Debug\net5.0\forloop.dll
+D:\C#Practice\forloop\forloop\obj\Debug\net5.0\ref\forloop.dll
+D:\C#Practice\forloop\forloop\obj\Debug\net5.0\forloop.pdb
+D:\C#Practice\forloop\forloop\obj\Debug\net5.0\forloop.genruntimeconfig.cache

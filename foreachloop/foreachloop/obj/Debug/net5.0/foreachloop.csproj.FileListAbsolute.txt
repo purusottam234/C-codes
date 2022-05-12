@@ -1,0 +1,15 @@
+D:\C#Practice\foreachloop\foreachloop\bin\Debug\net5.0\foreachloop.exe
+D:\C#Practice\foreachloop\foreachloop\bin\Debug\net5.0\foreachloop.deps.json
+D:\C#Practice\foreachloop\foreachloop\bin\Debug\net5.0\foreachloop.runtimeconfig.json
+D:\C#Practice\foreachloop\foreachloop\bin\Debug\net5.0\foreachloop.runtimeconfig.dev.json
+D:\C#Practice\foreachloop\foreachloop\bin\Debug\net5.0\foreachloop.dll
+D:\C#Practice\foreachloop\foreachloop\bin\Debug\net5.0\ref\foreachloop.dll
+D:\C#Practice\foreachloop\foreachloop\bin\Debug\net5.0\foreachloop.pdb
+D:\C#Practice\foreachloop\foreachloop\obj\Debug\net5.0\foreachloop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\foreachloop\foreachloop\obj\Debug\net5.0\foreachloop.AssemblyInfoInputs.cache
+D:\C#Practice\foreachloop\foreachloop\obj\Debug\net5.0\foreachloop.AssemblyInfo.cs
+D:\C#Practice\foreachloop\foreachloop\obj\Debug\net5.0\foreachloop.csproj.CoreCompileInputs.cache
+D:\C#Practice\foreachloop\foreachloop\obj\Debug\net5.0\foreachloop.dll
+D:\C#Practice\foreachloop\foreachloop\obj\Debug\net5.0\ref\foreachloop.dll
+D:\C#Practice\foreachloop\foreachloop\obj\Debug\net5.0\foreachloop.pdb
+D:\C#Practice\foreachloop\foreachloop\obj\Debug\net5.0\foreachloop.genruntimeconfig.cache

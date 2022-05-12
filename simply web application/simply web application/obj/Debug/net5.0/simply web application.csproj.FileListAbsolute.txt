@@ -1,0 +1,40 @@
+D:\C#Practice\simply web application\simply web application\bin\Debug\net5.0\appsettings.Development.json
+D:\C#Practice\simply web application\simply web application\bin\Debug\net5.0\appsettings.json
+D:\C#Practice\simply web application\simply web application\bin\Debug\net5.0\simply web application.exe
+D:\C#Practice\simply web application\simply web application\bin\Debug\net5.0\simply web application.deps.json
+D:\C#Practice\simply web application\simply web application\bin\Debug\net5.0\simply web application.runtimeconfig.json
+D:\C#Practice\simply web application\simply web application\bin\Debug\net5.0\simply web application.runtimeconfig.dev.json
+D:\C#Practice\simply web application\simply web application\bin\Debug\net5.0\simply web application.dll
+D:\C#Practice\simply web application\simply web application\bin\Debug\net5.0\ref\simply web application.dll
+D:\C#Practice\simply web application\simply web application\bin\Debug\net5.0\simply web application.pdb
+D:\C#Practice\simply web application\simply web application\bin\Debug\net5.0\simply web application.Views.dll
+D:\C#Practice\simply web application\simply web application\bin\Debug\net5.0\simply web application.Views.pdb
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.csproj.AssemblyReference.cache
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.AssemblyInfoInputs.cache
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.AssemblyInfo.cs
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.csproj.CoreCompileInputs.cache
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.MvcApplicationPartsAssemblyInfo.cache
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.RazorAssemblyInfo.cache
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.RazorAssemblyInfo.cs
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\staticwebassets\simply web application.StaticWebAssets.Manifest.cache
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\staticwebassets\simply web application.StaticWebAssets.xml
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\scopedcss\bundle\simply web application.styles.css
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.TagHelpers.input.cache
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.TagHelpers.output.cache
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.RazorCoreGenerate.cache
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.RazorTargetAssemblyInfo.cache
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.RazorTargetAssemblyInfo.cs
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.Views.pdb
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.dll
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\ref\simply web application.dll
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.pdb
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.genruntimeconfig.cache
+D:\C#Practice\simply web application\simply web application\obj\Debug\net5.0\simply web application.csproj.CopyComplete

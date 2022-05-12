@@ -1,0 +1,16 @@
+D:\C#Practice\Breakstatement\Breakstatement\bin\Debug\net5.0\Breakstatement.exe
+D:\C#Practice\Breakstatement\Breakstatement\bin\Debug\net5.0\Breakstatement.deps.json
+D:\C#Practice\Breakstatement\Breakstatement\bin\Debug\net5.0\Breakstatement.runtimeconfig.json
+D:\C#Practice\Breakstatement\Breakstatement\bin\Debug\net5.0\Breakstatement.runtimeconfig.dev.json
+D:\C#Practice\Breakstatement\Breakstatement\bin\Debug\net5.0\Breakstatement.dll
+D:\C#Practice\Breakstatement\Breakstatement\bin\Debug\net5.0\ref\Breakstatement.dll
+D:\C#Practice\Breakstatement\Breakstatement\bin\Debug\net5.0\Breakstatement.pdb
+D:\C#Practice\Breakstatement\Breakstatement\obj\Debug\net5.0\Breakstatement.csproj.AssemblyReference.cache
+D:\C#Practice\Breakstatement\Breakstatement\obj\Debug\net5.0\Breakstatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Practice\Breakstatement\Breakstatement\obj\Debug\net5.0\Breakstatement.AssemblyInfoInputs.cache
+D:\C#Practice\Breakstatement\Breakstatement\obj\Debug\net5.0\Breakstatement.AssemblyInfo.cs
+D:\C#Practice\Breakstatement\Breakstatement\obj\Debug\net5.0\Breakstatement.csproj.CoreCompileInputs.cache
+D:\C#Practice\Breakstatement\Breakstatement\obj\Debug\net5.0\Breakstatement.dll
+D:\C#Practice\Breakstatement\Breakstatement\obj\Debug\net5.0\ref\Breakstatement.dll
+D:\C#Practice\Breakstatement\Breakstatement\obj\Debug\net5.0\Breakstatement.pdb
+D:\C#Practice\Breakstatement\Breakstatement\obj\Debug\net5.0\Breakstatement.genruntimeconfig.cache
